@@ -325,6 +325,7 @@ body {
         flex-direction: column;
     }
     .box-text {
+        color: blue;
         border-right: none;
         padding-right: 0;
         padding-bottom: 1px solid #eaeaea;
