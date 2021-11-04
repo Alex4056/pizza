@@ -328,5 +328,7 @@ body {
         border-right: none;
         padding-right: 0;
         padding-bottom: 1px solid #eaeaea;
+        background-color: red;
+        font-weight: bold;
     }
 }
